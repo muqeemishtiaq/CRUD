@@ -1,0 +1,10 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "name": "Chocolate Cake",
+      "image": "/download.jpg",
+      "price": 25.99
+    }
+  ]
+}
